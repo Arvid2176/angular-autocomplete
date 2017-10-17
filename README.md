@@ -24,7 +24,7 @@ Also you should load the stylesheet of the autocomplete:
 Then in your HTML you should load it before the script of your main app. Like this:
 
 ```html
-<script type="text/javascript" src="script/autocomplete.js"></script>
+<script type="text/javascript" src="script/angular-autocomplete.js"></script>
 <script type="text/javascript" src="script/app.js"></script>
 ```
 
