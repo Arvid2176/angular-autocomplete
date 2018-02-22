@@ -1,7 +1,7 @@
 angular-autocomplete 
 ======================
 
-[中文文档](https://github.com/pangguoming/angular-autocomplete/blob/master/README-CN.mdhttp://pangguoming.com/angular-autocomplete/)
+[中文文档](https://github.com/pangguoming/angular-autocomplete/blob/master/README-CN.md)
 
 Simple to use autocomplete directive in a module for AngularJS!
 Supports arrow keys to traverse suggestions as well as mouse input.
