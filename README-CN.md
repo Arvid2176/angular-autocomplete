@@ -1,10 +1,5 @@
----
-title: AngularJS 联想输入框：angular-autocomplete
-date: 2018-02-22 22:03:32
-tags: spring-cloud,angualrjs]
-categories: 前端
-
----
+angular-autocomplete 
+======================
 
 
 本项目使用AngularJS实现一个联想输入框功能。当用户输入字符、字符串时能够按照输入的字符（串）自动匹配列表中最相似的条目，并以下拉列表形式显示出来。
